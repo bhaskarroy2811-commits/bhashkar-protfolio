@@ -10,3 +10,7 @@ Computer Science Engineering
 
 ## Goal
 I want to improve my coding skills and become a software developer.
+## Task 3 – Digital Literacy Quiz
+
+👉 Google Form Link:  
+[Click here to open my quiz](https://forms.gle/PcV6EdJJqWkHWMmaA)
